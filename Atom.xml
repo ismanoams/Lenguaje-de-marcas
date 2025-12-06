@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Noticias Recientes de Videojuegos</title>
+  <subtitle>Resumen de novedades del mundo del videojuego - actualizaciones frecuentes</subtitle>
+  <link href="http://www.ejemplo-canal-videojuegos.com/atom.xml" rel="self" />
+  <link href="http://www.ejemplo-canal-videojuegos.com/" rel="alternate" />
+  <id>http://www.ejemplo-canal-videojuegos.com/</id>
+  <updated>2025-12-06T12:00:00Z</updated>
+  <author>
+    <name>Equipo Noticias VG</name>
+  </author>
+
+  <!-- Entrada 1 -->
+  <entry>
+    <title>2XKO, el juego de lucha con personajes de League of Legends, ya tiene fecha de estreno en PS5 y Xbox</title>
+    <link href="https://as.com/meristation/noticias/2xko-el-juego-de-lucha-con-personajes-de-league-of-legends-ya-tiene-fecha-de-estreno-en-ps5-y-xbox-f202512-n/" rel="alternate" type="text/html"/>
+    <id>https://as.com/meristation/noticias/2xko-el-juego-de-lucha-con-personajes-de-league-of-legends-ya-tiene-fecha-de-estreno-en-ps5-y-xbox-f202512-n/</id>
+    <updated>2025-12-06T00:00:00Z</updated>
+    <published>2025-12-06T00:00:00Z</published>
+    <summary>El próximo juego de lucha de 2XKO, ambientado en el universo de League of Legends, llegará a PlayStation 5 y Xbox Series en enero de 2026, con modo competitivo, cross-progress y nuevo campeón de inicio.</summary>
+  </entry>
+
+  <!-- Entrada 2 -->
+  <entry>
+    <title>El creador de Fallout regresa a Obsidian y desata teorías sobre su próximo juego</title>
+    <link href="https://as.com/meristation/noticias/el-creador-de-fallout-regresa-a-obsidian-y-desata-las-teorias-sobre-su-proximo-juego-no-lo-vais-a-adivinar-f202512-n/" rel="alternate" type="text/html"/>
+    <id>https://as.com/meristation/noticias/el-creador-de-fallout-regresa-a-obsidian-y-desata-las-teorias-sobre-su-proximo-juego-no-lo-vais-a-adivinar-f202512-n/</id>
+    <updated>2025-12-06T00:00:00Z</updated>
+    <published>2025-12-06T00:00:00Z</published>
+    <summary>Tim Cain vuelve a trabajar a tiempo completo en Obsidian Entertainment, lo que ha generado especulaciones: su nuevo proyecto —aún sin anunciar— promete ser sorprendente y no una secuela directa de los clásicos.</summary>
+  </entry>
+
+  <!-- Entrada 3 -->
+  <entry>
+    <title>The 10 Best Video Games of 2025: los juegos más destacados del año según TIME</title>
+    <link href="https://time.com/7333802/best-video-games-2025/" rel="alternate" type="text/html"/>
+    <id>https://time.com/7333802/best-video-games-2025/</id>
+    <updated>2025-12-06T00:00:00Z</updated>
+    <published>2025-12-06T00:00:00Z</published>
+    <summary>La revista TIME ha publicado su lista de los mejores videojuegos de 2025, destacando títulos como Clair Obscur: Expedition 33, Death Stranding 2 y Hollow Knight: Silksong, reflejando la riqueza y diversidad de la industria este año.</summary>
+  </entry>
+
+</feed>
